@@ -1,0 +1,7 @@
+Exception is a problem that arises during the execution of a program. A C# exception is a response to an exceptional
+circumstance that arises while a program is running, such as an attempt to divide by Zero.
+     Exceptions provide a way to transfer control from one part of a program to another.C# exceprion handling is built
+upon four keywords:try,catch,finally and throw.  
+    
+      Assuming a block raises an exception, a method catches an exception using a combination of the try and catch and finally key
+words
