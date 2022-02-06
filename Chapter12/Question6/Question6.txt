@@ -1,6 +1,0 @@
-   
-
-ADVANTAGES
-1. Separating error handling code from "regular" code
-2. Propagating errors up the call stack
-3. Grouping and differentiating error types

@@ -1,0 +1,16 @@
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\Chapter16.exe
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\Chapter16.deps.json
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\Chapter16.runtimeconfig.json
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\Chapter16.runtimeconfig.dev.json
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\Chapter16.dll
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\ref\Chapter16.dll
+D:\staa99\Desktop\Ass\Chapter16\bin\Debug\net5.0\Chapter16.pdb
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.csprojAssemblyReference.cache
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.GeneratedMSBuildEditorConfig.editorconfig
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.AssemblyInfoInputs.cache
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.AssemblyInfo.cs
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.csproj.CoreCompileInputs.cache
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.dll
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\ref\Chapter16.dll
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.pdb
+D:\staa99\Desktop\Ass\Chapter16\obj\Debug\net5.0\Chapter16.genruntimeconfig.cache

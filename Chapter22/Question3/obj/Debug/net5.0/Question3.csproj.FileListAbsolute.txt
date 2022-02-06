@@ -1,0 +1,16 @@
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.AssemblyInfoInputs.cache
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.AssemblyInfo.cs
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.csproj.CoreCompileInputs.cache
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\Question3.exe
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\Question3.deps.json
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\Question3.runtimeconfig.json
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\Question3.runtimeconfig.dev.json
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\Question3.dll
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\ref\Question3.dll
+D:\staa99\Desktop\Ass\Chapter22\Question3\bin\Debug\net5.0\Question3.pdb
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.csprojAssemblyReference.cache
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.dll
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\ref\Question3.dll
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.pdb
+D:\staa99\Desktop\Ass\Chapter22\Question3\obj\Debug\net5.0\Question3.genruntimeconfig.cache

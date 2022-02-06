@@ -1,0 +1,64 @@
+  My SQL
+mysql
+mysql-u root -p                                                           one to many 
+show databases;                                                           Many to many
+create database School;                                                   One to One
+show databases;
+show databases;
+use world;
+show tables;
+select * from name
+use school;
+create table department
+(Id int primary key,name vachar(50),descriprion varchar(100);
+create table student
+(id int primary key, name varchar(50) not null,age int,departmentId int,foreign key (departmentId) references  Department(Id),);
+create tabe Teacher
+(id int primary key auto increment,name varchar(50),foreign key (depatment Id ) references Department(Id),);
+create table subject
+(Id int primary key,name vachar(50),SubjectCode varchar(10);
+create StudentSubject(id int primary key,StudentId int,Subject int,foreign key (studentid) references student(id),foreign key(subjectid) references subject(id);
+insert into department(id,name,description) values
+(1,"SCience","Science");
+show tables
+select * from department
+insert into Student(id,name,age,departmentId)
+(1,"Bol",23,1)
+show tables
+select * from student
+
+
+
+WHERE CLAUSE
+Select name,age from student where id==1
+select * from student where departmebtId==1 and age > 5
+select * from student where departmebtId==1 or age > 5
+select   name from student order by age;
+select   name from student order by age desc;
+select  * from student order by age asc, name desc;
+select * from student order by age in desc limit 1;
+select * from student order by age in asc limit 1;
+select count(id) from student;
+select average(age) from student;
+ select sum(age) from student;
+
+
+UPDATE
+update student set name="femi",age=22 where id=2;
+
+
+Delete
+delete from department where id=1;
+delete from student where id=1;
+
+
+
+
+
+
+
+
+
+
+
+

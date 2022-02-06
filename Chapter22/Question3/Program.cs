@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Sockets;
+
+
+namespace Question3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Student> students=new List<Student>()
+            {
+                new Student(){FirstName = "Adeolu",LastName = "Ayo",Age = 13},
+                new Student(){FirstName = "Olu",LastName = "Ade",Age = 13},
+                new Student(){FirstName = "Bayo",LastName = "Ola",Age = 13},
+                new Student(){FirstName = "Ada",LastName = "Obi",Age = 13},
+                new Student(){FirstName = "Ade",LastName = "Ada",Age = 13},
+            };
+
+            var s = from student in students where student.FirstName.CompareTo(student.LastName)==-1 select student;
+            foreach (var f in s)
+            {
+                Console.WriteLine($"{f.FirstName}   {f.LastName}   {f.Age}");
+            }
+        }
+    }
+}
